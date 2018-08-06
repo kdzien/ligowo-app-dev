@@ -89,7 +89,7 @@ module.exports = "/*!\n *  Font Awesome 4.7.0 by @davegandy - http://fontawesome
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "body {\n  background-color: whitesmoke !important;\n  font-family: 'Raleway', sans-serif !important; }\n\nbutton:hover {\n  cursor: pointer; }\n\nform.login, form.register {\n  background-color: #ffffff8c;\n  border-radius: 4px; }\n\nform.login .form-header, form.register .form-header {\n    font-family: 'Quicksand', sans-serif;\n    text-align: center;\n    font-weight: 500;\n    padding: 7px;\n    font-size: 22px; }\n\nform.login label, form.register label {\n    margin: 0;\n    margin-left: 10px; }\n\nform.login input, form.login button, form.register input, form.register button {\n    border: none;\n    border-radius: 0%;\n    padding: 12px;\n    text-align: center; }\n\nform.login button, form.register button {\n    width: 100%;\n    background: #4364F7; }\n"
+module.exports = "body {\n  background-color: whitesmoke !important;\n  font-family: 'Raleway', sans-serif !important; }\n\nbutton:hover {\n  cursor: pointer; }\n\nform.login, form.register {\n  background-color: #ffffff8c;\n  border-radius: 4px; }\n\nform.login .form-header, form.register .form-header {\n    font-family: 'Quicksand', sans-serif;\n    text-align: center;\n    font-weight: 500;\n    padding: 7px;\n    font-size: 22px; }\n\nform.login label, form.register label {\n    margin: 0;\n    margin-left: 10px; }\n\nform.login input, form.login button, form.register input, form.register button {\n    border: none;\n    border-radius: 0%;\n    padding: 12px;\n    text-align: center; }\n\nform.login button, form.register button {\n    width: 100%;\n    background: #009385; }\n"
 
 /***/ }),
 
@@ -621,9 +621,9 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Konrad Dzień\Documents\dev\ligowo-app\src\styles.scss */"./src/styles.scss");
-__webpack_require__(/*! C:\Users\Konrad Dzień\Documents\dev\ligowo-app\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-module.exports = __webpack_require__(/*! C:\Users\Konrad Dzień\Documents\dev\ligowo-app\node_modules\font-awesome\css\font-awesome.css */"./node_modules/font-awesome/css/font-awesome.css");
+__webpack_require__(/*! C:\Users\user\Desktop\my_dev\ligowo-app\src\styles.scss */"./src/styles.scss");
+__webpack_require__(/*! C:\Users\user\Desktop\my_dev\ligowo-app\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+module.exports = __webpack_require__(/*! C:\Users\user\Desktop\my_dev\ligowo-app\node_modules\font-awesome\css\font-awesome.css */"./node_modules/font-awesome/css/font-awesome.css");
 
 
 /***/ })

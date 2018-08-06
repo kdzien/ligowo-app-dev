@@ -5473,7 +5473,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Konrad Dzień\Documents\dev\ligowo-app\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Users\user\Desktop\my_dev\ligowo-app\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
